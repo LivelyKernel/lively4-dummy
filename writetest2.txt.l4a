@@ -1,2 +1,4 @@
+{"type":"Reference","version":null,"content":"ok\n\n\nfoo211 hello\n\n\nundefined"}
 {"from":12,"to":17,"name":"color","color":"red"}
+{"from":5,"to":11,"name":"color","color":"blue"}
 {"from":20,"to":29,"name":"color","color":"yellow"}
